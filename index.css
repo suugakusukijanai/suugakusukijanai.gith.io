@@ -1,0 +1,372 @@
+.top-wrapper {
+	background-image: url(https://th.bing.com/th/id/OIP.6MBwyi0aZR_JvHP-O8MswwHaE7?w=280&h=187&c=7&r=0&o=5&dpr=2&pid=1.7);
+	padding: 100px 0 100px 0;
+	background-size: cover;
+	color: black;
+	text-align: center;
+	font-size: 40px;
+}
+.lesson-wrapper {
+	padding-top: 100px;
+	background-size: cover;
+	padding-left: 175px;
+}
+.heading1 {
+	padding-left: 120px;
+} 
+.container1 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: 0px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container2 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -5px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container3 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -11px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container4 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -17px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container5 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -23px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container6 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -29px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container7 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -34px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container8 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -40px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container9 {
+	font-size: 24px;
+	position: relative;
+	top: 128px;
+	left: -46px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container1:active {
+    opacity: 0;
+}
+.container2:active {
+    opacity: 0;
+}
+.container3:active {
+    opacity: 0;
+}
+.container4:active {
+    opacity: 0;
+}
+.container5:active {
+    opacity: 0;
+}
+.container6:active {
+    opacity: 0;
+}
+.container7:active {
+    opacity: 0;
+}
+.container8:active {
+    opacity: 0;
+}
+.container9:active {
+    opacity: 0;
+}
+
+
+.lesson-wrapper img {
+	position: absolute;
+}
+.container10 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 120px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container11 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 115px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container12 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 110px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container13 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 104px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container14 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 98px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container15 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 92px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container16 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 86px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container17 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 80px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container18 {
+	font-size: 24px;
+	position: relative;
+	top: 176px;
+	left: 74px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container10:active {
+    opacity: 0;
+}
+.container11:active {
+    opacity: 0;
+}
+.container12:active {
+    opacity: 0;
+}
+.container13:active {
+    opacity: 0;
+}
+.container14:active {
+    opacity: 0;
+}
+.container15:active {
+    opacity: 0;
+}
+.container16:active {
+    opacity: 0;
+}
+.container17:active {
+    opacity: 0;
+}
+.container18:active {
+    opacity: 0;
+}
+.container19 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 120px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container20 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 115px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container21 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 110px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container22 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 104px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container23 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 98px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container24 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 92px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container25 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 86px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container26 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 80px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container27 {
+	font-size: 24px;
+	position: relative;
+	top: 224px;
+	left: 74px;
+	padding: 23.5px 23.5px 23.5px 23.5px;
+    color: black;
+    opacity: 1;
+    background-color: #239b76;
+}
+.container19:active {
+    opacity: 0;
+}
+.container20:active {
+    opacity: 0;
+}
+.container21:active {
+    opacity: 0;
+}
+.container22:active {
+    opacity: 0;
+}
+.container23:active {
+    opacity: 0;
+}
+.container24:active {
+    opacity: 0;
+}
+.container25:active {
+    opacity: 0;
+}
+.container26:active {
+    opacity: 0;
+}
+.container27:active {
+    opacity: 0;
+}
