@@ -1,0 +1,1 @@
+# suugakusukijanai.gith.io
